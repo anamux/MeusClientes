@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Meus Clientes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cliente</string>
+    <string name="nav_header_subtitle">Profº Marco Maddo</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sair</string>
+    <string name="modelo_fragment">App Cliente VIP</string>
+
+    <!-- Opções do Menu Lateral drawer-->
+    <string name="fragmento_adicionar_cliente">Adicionar Cliente</string>
+    <string name="fragmento_adicionar_cliente_cards">Adicionar Cliente (Cards)</string>
+    <string name="fragmento_preto">Fragmento Preto</string>
+    <string name="fragmento_vermelho">Fragmento Vermelho</string>
+    <string name="fragmento_azul">Fragmento Azul</string>
+    <string name="listar_clientes_fragment">Lista de Clientes</string>
+    <string name="listar_clientes_fragment_cards">Lista de Clientes (Cards)</string>
+    <string name="perfil_contato">Perfil e Contato</string>
+    <string name="endereco">Endereço</string>
+
+    <!-- Opções do Menu Principal -->
+    <string name="meu_perfil">Meu Perfil</string>
+
+
+    <!--- Textos para o Layout Adicionar Novo Cliente-->
+    <string name="novoCliente">Adicionar Novo Cliente</string>
+
+
+
+</resources>
